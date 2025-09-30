@@ -11,7 +11,7 @@ Este projeto é uma API CRUD para gestão de stock, alunos, funcionários e enca
 ### Instalação
 1. Clone o repositório:
 	```bash
-	git clone <url-do-repositorio>
+	git clone <https://github.com/Cust-Coding/PWEAM>
 	cd PWEAM
 	```
 2. Instale as dependências:
